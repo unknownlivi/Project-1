@@ -8,18 +8,17 @@ h2{
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-
-li{
+.experience li{
   color:green;
 }
 
-email:hover{
-  color:red;
+.section a:hover{
+  color:rgb(86, 9, 131);
 
 }
 
-hobbies{
-  color:purple;
+.hobbies li{
+  color:green;
 }
 
 body {
